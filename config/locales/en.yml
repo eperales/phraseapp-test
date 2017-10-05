@@ -13,3 +13,9 @@ en:
               y_otro: This is another translation
               y_otro_mas: This is yet another translation
         mas: Uno mas.
+    warnings:
+      models:
+        hola:
+          attributes:
+            base:
+              uno: This is a warning translation
