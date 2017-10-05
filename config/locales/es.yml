@@ -1,13 +1,13 @@
 ---
-en:
+es:
   activemodel:
     errors:
       models:
         hola:
           attributes:
             base:
-              uno: Esto es una traducción
+              uno: Esto es una traducción desde PhraseApp.
         otro:
           attributes:
             base:
-              y_otro: Esto es otra traducción
+              y_otro: Esto es otra traducción desde PhraseApp.
