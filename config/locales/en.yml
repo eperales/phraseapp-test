@@ -3,12 +3,9 @@ en:
   activemodel:
     errors:
       models:
-        hola:
-          attributes:
-            base:
-              uno: This is a translation
+        mas: Uno mas.
         otro:
           attributes:
             base:
               y_otro: This is another translation
-        mas: Uno mas.
+              y_otro_mas: This is yet another translation
