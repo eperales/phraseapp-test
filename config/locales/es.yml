@@ -3,10 +3,6 @@ es:
   activemodel:
     errors:
       models:
-        hola:
-          attributes:
-            base:
-              uno: Esto es una traducción desde PhraseApp.
         otro:
           attributes:
             base:
