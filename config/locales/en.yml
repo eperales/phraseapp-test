@@ -19,3 +19,6 @@ en:
           attributes:
             base:
               uno: This is a warning translation
+              dos: dos
+              tres: tres
+              cuatro: cuatro
