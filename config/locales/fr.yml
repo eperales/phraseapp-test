@@ -1,0 +1,13 @@
+---
+fr:
+  activemodel:
+    errors:
+      models:
+        hola:
+          attributes:
+            base:
+              uno: C'est une traduction.
+        otro:
+          attributes:
+            base:
+              y_otro: C'est une autre traduction.
